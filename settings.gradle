@@ -1,2 +1,3 @@
+include ':viewpag'
 include ':app'
 rootProject.name = "Corut"
